@@ -1,0 +1,8 @@
+﻿public int product(int x,int y)
+    {
+        return x*y;
+    }
+    public int sqrt(int x)
+    {
+        return x*x;
+    }

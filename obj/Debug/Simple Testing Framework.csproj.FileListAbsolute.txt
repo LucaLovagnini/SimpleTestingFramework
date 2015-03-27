@@ -1,0 +1,6 @@
+c:\users\luca\documents\visual studio 2013\Projects\Simple Testing Framework\Simple Testing Framework\bin\Debug\Simple Testing Framework.exe.config
+C:\Users\Luca\Documents\Visual Studio 2013\Projects\Simple Testing Framework\Simple Testing Framework\obj\Debug\Simple Testing Framework.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Documents\Visual Studio 2013\Projects\Simple Testing Framework\Simple Testing Framework\bin\Debug\Simple Testing Framework.exe
+C:\Users\Luca\Documents\Visual Studio 2013\Projects\Simple Testing Framework\Simple Testing Framework\bin\Debug\Simple Testing Framework.pdb
+C:\Users\Luca\Documents\Visual Studio 2013\Projects\Simple Testing Framework\Simple Testing Framework\obj\Debug\Simple Testing Framework.exe
+C:\Users\Luca\Documents\Visual Studio 2013\Projects\Simple Testing Framework\Simple Testing Framework\obj\Debug\Simple Testing Framework.pdb
